@@ -29,3 +29,4 @@ The project is set up to use `postcss-cli` to process your CSS files. You can ad
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+<img width="1438" alt="Screenshot 2024-11-14 at 09 54 20" src="https://github.com/user-attachments/assets/0de908d7-8b23-49c9-9bdd-2dc2573bcbc5">
